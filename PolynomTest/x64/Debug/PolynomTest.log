@@ -1,4 +1,0 @@
-﻿  Test.cpp
-C:\Users\Мария\Desktop\ооп\2\PolynomTest\Test.cpp(15,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\Мария\Desktop\ооп\2\PolynomTest\Test.cpp(49,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-  PolynomTest.vcxproj -> C:\Users\Мария\Desktop\ооп\2\PolynomTest\x64\Debug\PolynomTest.exe
